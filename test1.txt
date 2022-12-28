@@ -1,9 +1,0 @@
-git add "파일 이름"
-
-git commit -m "first commit"
-
-git remote -v 
-
-git push -u origin "master / main"
-
-하면 업로드 되어있음
